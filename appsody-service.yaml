@@ -1,5 +1,5 @@
 apiVersion: serving.knative.dev/v1alpha1
-kind: Route
+kind: Service
 metadata:
   name: appsody-build-test
 spec:
